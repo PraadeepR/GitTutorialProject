@@ -7,7 +7,6 @@ namespace GitTutorialProject
 {
     public class JabardastFeature
     {
-        ///wah khya jabardast feature haiiii
-        ///
+      //No Jabardast changes
     }
 }
