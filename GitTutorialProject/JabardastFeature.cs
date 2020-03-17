@@ -8,6 +8,10 @@ namespace GitTutorialProject
     public class JabardastFeature
     {
       //No Jabardast changes
+      //// kkkkkkk
+      public void Tetva()
+      {
+      }
 
         public bool truthy()
         {
