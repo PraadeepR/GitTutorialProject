@@ -5,9 +5,7 @@ using System.Threading.Tasks;
 
 namespace GitTutorialProject
 {
-    public class JabardastFeature
+    public class Jabraatfeature2
     {
-        ///wah khya jabardast feature haiiii
-        ///
     }
 }
