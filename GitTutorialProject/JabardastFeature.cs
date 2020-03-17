@@ -8,5 +8,10 @@ namespace GitTutorialProject
     public class JabardastFeature
     {
       //No Jabardast changes
+
+        public bool truthy()
+        {
+            return false;
+        }
     }
 }
